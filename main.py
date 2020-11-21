@@ -1,5 +1,6 @@
 #Step1: import Library and Generate Data
 from __future__ import division, print_function, unicode_literals
+
 import numpy as np 
 import matplotlib.pyplot as plt
 np.random.seed(2)

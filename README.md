@@ -18,3 +18,14 @@ f(x) called activation function and x is interpreted as data extended with x_0 =
 - Logistic Regression does not need the assumption tha the two-class is linearly separable.
 - However, the detected boundary remains linear. So this model is only suitable gor data types where two classes are closely related to linearly separable.
 - Hạn chế : Không làm việc được với dữ lieejy mà một class chuwasc các điểm nằm trong 1 vòng tròn, class kia chứa các điểm nằm bên ngoài đường tròn đó => Cần mô hình phức tạp hơn. Và các điểm dữ liệu được tạo ra một cách độc lập với nhau, nhưng trên thực tế, các điểm dữ liệu có thể bị ảnh hưởng bởi nhau.
+
+## Result
+<img src="sigmod.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="logistic.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="logistic_2d_2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
